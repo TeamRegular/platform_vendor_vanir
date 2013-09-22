@@ -9,6 +9,8 @@ ZOMG_ITS_A_COMBO_COMBO()
     d2vzw \
     e975 \
     e980 \
+    exhilarate \
+    fascinatemtd 
     flo \
     grouper \
     hercules \

@@ -4,8 +4,10 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vanir_d2spr.mk \
     $(LOCAL_DIR)/vanir_d2tmo.mk \
     $(LOCAL_DIR)/vanir_d2vzw.mk \
-	$(LOCAL_DIR)/vanir_e975.mk \
-	$(LOCAL_DIR)/vanir_e980.mk \
+    $(LOCAL_DIR)/vanir_e975.mk \
+    $(LOCAL_DIR)/vanir_e980.mk \
+    $(LOCAL_DIR)/vanir_fascinatemtd.mk \
+    $(LOCAL_DIR)/vanir_exhilarate.mk \
     $(LOCAL_DIR)/vanir_flo.mk \
     $(LOCAL_DIR)/vanir_grouper.mk \
     $(LOCAL_DIR)/vanir_hercules.mk \
