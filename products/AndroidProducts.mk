@@ -24,6 +24,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vanir_maguro.mk \
     $(LOCAL_DIR)/vanir_mako.mk \
     $(LOCAL_DIR)/vanir_maserati.mk \
+    $(LOCAL_DIR)/vanir_ovation.mk \
     $(LOCAL_DIR)/vanir_p880.mk \
     $(LOCAL_DIR)/vanir_pollux.mk \
     $(LOCAL_DIR)/vanir_jfltevzw.mk \
@@ -34,9 +35,10 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vanir_jfltetmo.mk \
     $(LOCAL_DIR)/vanir_t0lteatt.mk \
     $(LOCAL_DIR)/vanir_t0ltetmo.mk \
+    $(LOCAL_DIR)/vanir_tf700.mk \
+    $(LOCAL_DIR)/vanir_tilapia.mk \
     $(LOCAL_DIR)/vanir_toro.mk \
     $(LOCAL_DIR)/vanir_toroplus.mk \
     $(LOCAL_DIR)/vanir_p700.mk \
-    $(LOCAL_DIR)/vanir_tilapia.mk \
     $(LOCAL_DIR)/vanir_yuga.mk \
     $(LOCAL_DIR)/vanir_vigor.mk
