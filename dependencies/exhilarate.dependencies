@@ -1,3 +1,4 @@
+[
   {
     "account":      "SGH-I577",
     "repository":   "proprietary_vendor_samsung",
@@ -14,7 +15,7 @@
     "account":    "VanirAOSP",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision":    "cm-10.2"
+    "revision":    "jb43"
   },
   {
     "account":    "SGH-I577",
